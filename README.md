@@ -9,53 +9,61 @@
 ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### building things that shouldn't exist yet
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F97316&center=true&vCenter=true&width=520&lines=Building+Aetheris+OS+from+scratch+%F0%9F%8C%8C;Linux+distro+engineer+%F0%9F%90%A7;Web+%26+App+developer+%F0%9F%8C%90;Aspiring+Data+Scientist+%F0%9F%93%8A;Open+source+enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Linux+distro+builder+%F0%9F%90%A7;Web+%26+App+developer+%F0%9F%8C%90;Data+Science+learner+%F0%9F%93%8A;Open+source+enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
+<br/>
+
+> *"Building things that shouldn't exist yet — and making them work."*
 
 </div>
 
 ---
 
-## ⚡ What I'm Building
+## 🌌 Flagship Project — Aetheris OS
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🌌 Aetheris OS
-A custom Linux distribution built from the ground up.
-- Base: **Void Linux** + runit init
-- Kernel compiled with **Clang/ThinLTO** + BORE scheduler
-- Wayland compositor: **Labwc**
-- Custom subsystems: VelocityInstall · VelocityShield · VelocityMind
-- Built for speed, security, and elegance
+| Component | Choice |
+|-----------|--------|
+| 🧱 Base | Void Linux (glibc) + runit |
+| ⚙️ Kernel | Clang/ThinLTO · BORE CPU scheduler |
+| 🖥️ Compositor | Labwc (Wayland) |
+| 🦀 Installer | VelocityInstall (Tauri + Rust) |
+| 🛡️ Security | VelocityShield (AppArmor + signed UKI) |
+| 🧠 Intelligence | VelocityMind (DTMC predictive preloader) |
+| 🪟 Windows Compat | Bottles + Proton-CachyOS + DXVK/VKD3D |
 
-> *"An OS designed like it was supposed to exist."*
+</div>
 
-</td>
-<td width="50%" valign="top">
+> A Linux distribution engineered for speed, security, and elegance — built entirely from scratch.
 
-### 🌐 Web & App Development
-Building real products with modern stacks.
-- TypeScript-first development
-- Projects: **Portfolio** · **Momentum** · **OpenChat**
-- **The Sentiment Exchange** — emotion-driven platform
-- **GuruNanak Academy** — educational web app
+---
 
-</td>
-</tr>
-</table>
+## 🌐 Web & App Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Portfolio**](https://github.com/amandeavor/Portfolio) | Personal portfolio site | TypeScript |
+| [**Momentum**](https://github.com/amandeavor/Momentum) | Productivity app | TypeScript |
+| [**OpenChat**](https://github.com/amandeavor/OpenChat) | Open messaging platform | TypeScript |
+| [**The Sentiment Exchange**](https://github.com/amandeavor/The-Sentiment-Exchange) | Emotion-driven platform | — |
+| [**GuruNanak Academy**](https://github.com/amandeavor/GuruNanakAcademy) | Educational web app | TypeScript |
+
+</div>
 
 ---
 
 ## 🧠 Currently Learning
 
 ```python
-skills = {
-    "Data Science": ["Python", "NumPy", "Pandas (soon)"],
-    "Focus":        "ML fundamentals → building models",
-    "Status":       "Learning every day 📈"
+journey = {
+    "path":    "Data Science → Machine Learning",
+    "knows":   ["Python", "NumPy"],
+    "next":    ["Pandas", "Matplotlib", "Scikit-learn"],
+    "goal":    "Build and ship a real ML model",
+    "status":  "Learning every day 📈"
 }
 ```
 
@@ -67,22 +75,22 @@ skills = {
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F97316?style=flat-square&logo=python&logoColor=FFF8F0)
+![TypeScript](https://img.shields.io/badge/TypeScript-EA6C00?style=flat-square&logo=typescript&logoColor=FFF8F0)
+![Rust](https://img.shields.io/badge/Rust-C2500A?style=flat-square&logo=rust&logoColor=FFF8F0)
+![Bash](https://img.shields.io/badge/Bash-D4591A?style=flat-square&logo=gnubash&logoColor=FFF8F0)
 
 **Data Science**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Python](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-F97316?style=flat-square&logo=numpy&logoColor=FFF8F0)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-EA6C00?style=flat-square&logo=python&logoColor=FFF8F0)
 
-**Tools & OS**
+**Linux & Systems**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Void Linux](https://img.shields.io/badge/Void_Linux-478061?style=flat-square&logo=voidlinux&logoColor=white)
-![Wayland](https://img.shields.io/badge/Wayland-FFBC00?style=flat-square&logo=wayland&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-F97316?style=flat-square&logo=linux&logoColor=FFF8F0)
+![Void Linux](https://img.shields.io/badge/Void_Linux-C2500A?style=flat-square&logo=voidlinux&logoColor=FFF8F0)
+![Wayland](https://img.shields.io/badge/Wayland-EA6C00?style=flat-square&logo=wayland&logoColor=FFF8F0)
+![Git](https://img.shields.io/badge/Git-D4591A?style=flat-square&logo=git&logoColor=FFF8F0)
 
 </div>
 
@@ -92,27 +100,35 @@ skills = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=amandeavor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=amandeavor&show_icons=true&hide_border=true&bg_color=1A0A00&title_color=F97316&icon_color=F97316&text_color=FDDCB5&ring_color=F97316" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeavor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeavor&layout=compact&hide_border=true&bg_color=1A0A00&title_color=F97316&text_color=FDDCB5" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amandeavor&hide_border=true&background=1A0A00&ring=F97316&fire=EA6C00&currStreakLabel=F97316&sideLabels=FDDCB5&currStreakNum=FFF8F0&sideNums=FFF8F0&dates=FDDCB5" />
 
 </div>
 
 ---
 
-## 🌱 2025 Goals
+## 🎯 2026 Goals
 
-- [ ] Ship **Aetheris OS** alpha release
-- [ ] Complete a full ML project end-to-end
-- [ ] Grow open-source contributions
-- [ ] Build something 100 people actually use
+- [ ] 🌌 Ship **Aetheris OS** alpha release  
+- [ ] 📊 Complete a full ML project end-to-end  
+- [ ] 🌍 Grow open-source contributions  
+- [ ] 🚀 Build something 100 people actually use  
 
 ---
 
 <div align="center">
 
-*from Dehradun, India — building quietly, shipping loudly.*
+📍 Dehradun, India &nbsp;|&nbsp; 🕐 UTC +05:30
 
-[![Instagram](https://img.shields.io/badge/@amandeavor-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/amandeavor)
+[![Instagram](https://img.shields.io/badge/@amandeavor-F97316?style=flat-square&logo=instagram&logoColor=FFF8F0)](https://www.instagram.com/amandeavor)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=80&section=footer" />
 
 </div>
