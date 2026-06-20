@@ -45,10 +45,12 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**ObsidianKit**](https://github.com/amandeavor/ObsidianKit) | Privacy-first, browser-native utility toolbox | React 19 · TypeScript · Vite · Tailwind 4 |
+| [**Aman Intelligence**](https://github.com/amandeavor/aman-intelligence-CLI) | CLI package manager for AI workflow assets | Node.js · TypeScript |
+| [**sweepr**](https://github.com/amandeavor/sweepr) | Smart directory & file organizer with undo support | Python · Typer · Rich |
+| [**Economics ISC**](https://github.com/amandeavor/EconomicsISC) | Password-protected PDF library for ISC students | React · Express · Supabase |
 | [**Portfolio**](https://github.com/amandeavor/Portfolio) | Personal portfolio site | TypeScript |
 | [**Momentum**](https://github.com/amandeavor/Momentum) | Productivity app | TypeScript |
-| [**OpenChat**](https://github.com/amandeavor/OpenChat) | Open messaging platform | TypeScript |
-| [**The Sentiment Exchange**](https://github.com/amandeavor/The-Sentiment-Exchange) | Emotion-driven platform | — |
 | [**GuruNanak Academy**](https://github.com/amandeavor/GuruNanakAcademy) | Educational web app | TypeScript |
 
 </div>
@@ -73,12 +75,15 @@ journey = {
 
 <div align="center">
 
-**Languages**
+**Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-F97316?style=flat-square&logo=python&logoColor=FFF8F0)
 ![TypeScript](https://img.shields.io/badge/TypeScript-EA6C00?style=flat-square&logo=typescript&logoColor=FFF8F0)
 ![Rust](https://img.shields.io/badge/Rust-C2500A?style=flat-square&logo=rust&logoColor=FFF8F0)
-![Bash](https://img.shields.io/badge/Bash-D4591A?style=flat-square&logo=gnubash&logoColor=FFF8F0)
+![React](https://img.shields.io/badge/React-D4591A?style=flat-square&logo=react&logoColor=FFF8F0)
+![Node.js](https://img.shields.io/badge/Node.js-F97316?style=flat-square&logo=nodedotjs&logoColor=FFF8F0)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-EA6C00?style=flat-square&logo=tailwindcss&logoColor=FFF8F0)
+![Bash](https://img.shields.io/badge/Bash-C2500A?style=flat-square&logo=gnubash&logoColor=FFF8F0)
 
 **Data Science**
 
