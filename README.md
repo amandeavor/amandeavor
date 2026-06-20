@@ -101,12 +101,11 @@ journey = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Metrics
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=amandeavor&show_icons=true&hide_border=true&bg_color=1A0A00&title_color=F97316&icon_color=F97316&text_color=FDDCB5&ring_color=F97316" />
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeavor&layout=compact&hide_border=true&bg_color=1A0A00&title_color=F97316&text_color=FDDCB5" />
 
 </div>
@@ -114,6 +113,15 @@ journey = {
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amandeavor&hide_border=true&background=1A0A00&ring=F97316&fire=EA6C00&currStreakLabel=F97316&sideLabels=FDDCB5&currStreakNum=FFF8F0&sideNums=FFF8F0&dates=FDDCB5" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🌌 Interactive Developer Dashboard
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 
 </div>
 
