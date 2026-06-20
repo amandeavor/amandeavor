@@ -45,13 +45,13 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**ObsidianKit**](https://github.com/amandeavor/ObsidianKit) | Privacy-first, browser-native utility toolbox | React 19 · TypeScript · Vite · Tailwind 4 |
-| [**Aman Intelligence**](https://github.com/amandeavor/aman-intelligence-CLI) | CLI package manager for AI workflow assets | Node.js · TypeScript |
-| [**sweepr**](https://github.com/amandeavor/sweepr) | Smart directory & file organizer with undo support | Python · Typer · Rich |
-| [**Economics ISC**](https://github.com/amandeavor/EconomicsISC) | Password-protected PDF library for ISC students | React · Express · Supabase |
-| [**Portfolio**](https://github.com/amandeavor/Portfolio) | Personal portfolio site | TypeScript |
-| [**Momentum**](https://github.com/amandeavor/Momentum) | Productivity app | TypeScript |
-| [**GuruNanak Academy**](https://github.com/amandeavor/GuruNanakAcademy) | Educational web app | TypeScript |
+| 🛠️ [**ObsidianKit**](https://github.com/amandeavor/ObsidianKit) | Privacy-first, browser-native utility toolbox | React 19 · TypeScript · Vite · Tailwind 4 |
+| 🧠 [**Aman Intelligence**](https://github.com/amandeavor/aman-intelligence-CLI) | CLI package manager for AI workflow assets | Node.js · TypeScript |
+| 🧹 [**sweepr**](https://github.com/amandeavor/sweepr) | Smart directory & file organizer with undo support | Python · Typer · Rich |
+| 📚 [**Economics ISC**](https://github.com/amandeavor/EconomicsISC) | Password-protected PDF library for ISC students | React · Express · Supabase |
+| 🚀 [**Portfolio**](https://github.com/amandeavor/Portfolio) | Personal portfolio site | TypeScript |
+| ⏱️ [**Momentum**](https://github.com/amandeavor/Momentum) | Productivity app | TypeScript |
+| 🏫 [**GuruNanak Academy**](https://github.com/amandeavor/GuruNanakAcademy) | Educational web app | TypeScript |
 
 </div>
 
@@ -101,7 +101,21 @@ journey = {
 
 ---
 
-## 📊 GitHub Stats & Metrics
+## 🏆 GitHub Achievements & Milestones
+
+<div align="center">
+
+| Achievement | Description | Badge / Icon |
+|-------------|-------------|:------------:|
+| **Pair Extraordinaire** | Co-authored commits in merged PRs | 🤝 |
+| **YOLO** | Merged pull requests directly without review | 🚀 |
+| **Quickdraw** | Closed issues or PRs within 5 minutes of opening | ⚡ |
+
+</div>
+
+---
+
+## 📊 GitHub Stats & Streaks
 
 <div align="center">
 
@@ -113,15 +127,6 @@ journey = {
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amandeavor&hide_border=true&background=1A0A00&ring=F97316&fire=EA6C00&currStreakLabel=F97316&sideLabels=FDDCB5&currStreakNum=FFF8F0&sideNums=FFF8F0&dates=FDDCB5" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🌌 Interactive Developer Dashboard
-<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 
 </div>
 
