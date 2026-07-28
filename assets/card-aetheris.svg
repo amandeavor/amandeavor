@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="220" viewBox="0 0 640 220" role="img" aria-labelledby="title description">
+  <title id="title">Aetheris OS</title>
+  <desc id="description">Experimental Void Linux system project.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1f1725"/><stop offset="1" stop-color="#101014"/></linearGradient></defs>
+  <rect width="640" height="220" rx="18" fill="url(#bg)"/>
+  <circle cx="574" cy="46" r="68" fill="#e879f9" fill-opacity="0.18"/>
+  <rect x="34" y="35" width="54" height="7" rx="3.5" fill="#e879f9"/>
+  <text x="34" y="91" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">Aetheris OS</text>
+  <text x="34" y="124" fill="#e0c4e7" font-family="Segoe UI, Arial, sans-serif" font-size="17">A Void Linux system experiment.</text>
+  <path d="M34 160H606" stroke="#fff" stroke-opacity="0.13"/>
+  <text x="34" y="190" fill="#caa7d4" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="1.2">RUST  /  C  /  SVELTE  /  LINUX</text>
+  <rect x="1" y="1" width="638" height="218" rx="17" fill="none" stroke="#fff" stroke-opacity="0.12"/>
+</svg>

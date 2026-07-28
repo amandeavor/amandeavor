@@ -1,28 +1,50 @@
-# Aman Awasthi
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Aman Awasthi: finance, systems, and software" />
+</p>
 
-Finance and Business Intelligence student building practical software, developer tools, and dependable workflows.
+<p align="center">
+  <a href="https://amandeavor.netlify.app"><strong>Portfolio</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/amandeavor/Aman-CLI"><strong>Aman CLI</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/amandeavor/ObsidianKit"><strong>ObsidianKit</strong></a>
+</p>
 
-I am pursuing a B.Com (Hons.) in Financial Analysis and Business Intelligence in academic partnership with EY, alongside CA Foundation preparation. My work combines analytical thinking with hands-on engineering: clear documentation, useful defaults, and tools people can understand and trust.
+I am pursuing a B.Com (Hons.) in Financial Analysis and Business Intelligence in academic partnership with EY, alongside CA Foundation preparation. I combine analytical thinking with hands-on engineering to build tools that make complex work more organized, inspectable, and reliable.
 
-## What I work on
-
-- Financial analysis, business intelligence, and investment-banking fundamentals
-- Developer tools, AI workflow infrastructure, and automation
-- Linux systems, command-line utilities, and practical web applications
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>01 / Analyze</strong><br />
+      Financial analysis, business intelligence, and investment-banking fundamentals.
+    </td>
+    <td width="33%" valign="top">
+      <strong>02 / Build</strong><br />
+      Developer tools, AI workflow infrastructure, automation, and web applications.
+    </td>
+    <td width="33%" valign="top">
+      <strong>03 / Understand</strong><br />
+      Linux systems, command-line utilities, and well-documented open source.
+    </td>
+  </tr>
+</table>
 
 ## Selected work
 
-| Project | Focus | Built with |
-| --- | --- | --- |
-| [Aman CLI](https://github.com/amandeavor/Aman-CLI) | Installs and organizes AI workflow assets such as skills, prompts, MCP configurations, packs, and stacks. | TypeScript, Node.js |
-| [ObsidianKit](https://github.com/amandeavor/ObsidianKit) | Browser-native tools for document, image, media, calculator, and utility workflows. | React, TypeScript, Vite |
-| [Sweepr](https://github.com/amandeavor/Sweepr) | Terminal file organization with dry-run previews and undo manifests. | Python, Typer, Rich |
-| [Aetheris OS](https://github.com/amandeavor/Aetheris-OS) | Experimental Void Linux system project with desktop tooling and utilities. | Rust, C, Svelte, Linux |
+<p align="center">
+  <a href="https://github.com/amandeavor/Aman-CLI"><img src="./assets/card-aman-cli.svg" width="49%" alt="Aman CLI project card" /></a>
+  <a href="https://github.com/amandeavor/ObsidianKit"><img src="./assets/card-obsidiankit.svg" width="49%" alt="ObsidianKit project card" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/amandeavor/Sweepr"><img src="./assets/card-sweepr.svg" width="49%" alt="Sweepr project card" /></a>
+  <a href="https://github.com/amandeavor/Aetheris-OS"><img src="./assets/card-aetheris.svg" width="49%" alt="Aetheris OS project card" /></a>
+</p>
 
 ## Technical foundation
 
-My public work spans TypeScript and React applications, Node.js CLI tooling, Python automation, and Linux-oriented components in Rust and C. I am especially interested in software that makes complex processes more organized, inspectable, and reliable.
+My public work spans TypeScript and React applications, Node.js CLI tooling, Python automation, and Linux-oriented components in Rust and C. I value clear documentation, sensible defaults, and software that respects the people who use it.
 
-## Portfolio
+## Current direction
 
-[amandeavor.netlify.app](https://amandeavor.netlify.app)
+Building at the intersection of financial analysis, business intelligence, developer tooling, and systems software.
