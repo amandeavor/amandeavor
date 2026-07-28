@@ -1,33 +1,28 @@
 # Aman Awasthi
 
-Finance and Business Intelligence student, CA Foundation candidate, and software builder. I work across financial analysis, developer tools, Linux systems, automation, and web applications.
+Finance and Business Intelligence student building practical software, developer tools, and dependable workflows.
 
-## About
+I am pursuing a B.Com (Hons.) in Financial Analysis and Business Intelligence in academic partnership with EY, alongside CA Foundation preparation. My work combines analytical thinking with hands-on engineering: clear documentation, useful defaults, and tools people can understand and trust.
 
-I am pursuing a B.Com (Hons.) in Financial Analysis and Business Intelligence in academic partnership with EY. Alongside my academic work and CA Foundation preparation, I build practical software and explore the technology behind clear, dependable workflows.
+## What I work on
 
-My interests include financial analysis, investment banking, business intelligence, open source, Linux, AI developer tooling, and software development.
+- Financial analysis, business intelligence, and investment-banking fundamentals
+- Developer tools, AI workflow infrastructure, and automation
+- Linux systems, command-line utilities, and practical web applications
 
-## Selected projects
+## Selected work
 
-| Project | What it is | Main technologies |
+| Project | Focus | Built with |
 | --- | --- | --- |
-| [Aman CLI](https://github.com/amandeavor/aman-cli) | A command-line tool for installing and organizing AI workflow assets, including skills, prompts, MCP configurations, packs, and stacks. | TypeScript, Node.js |
-| [ObsidianKit](https://github.com/amandeavor/ObsidianKit) | A browser-native toolbox for document, image, media, calculator, and utility workflows. | React, TypeScript, Vite |
-| [sweepr](https://github.com/amandeavor/sweepr) | A terminal file organizer with dry-run previews, undo manifests, and organization by type or modification date. | Python, Typer, Rich |
-| [Aetheris OS](https://github.com/amandeavor/Aetheris-OS) | An experimental Void-based Linux system project with supporting installer, driver-management, app-store, setup, and preloading components. | Rust, C, Svelte, Linux |
+| [Aman CLI](https://github.com/amandeavor/Aman-CLI) | Installs and organizes AI workflow assets such as skills, prompts, MCP configurations, packs, and stacks. | TypeScript, Node.js |
+| [ObsidianKit](https://github.com/amandeavor/ObsidianKit) | Browser-native tools for document, image, media, calculator, and utility workflows. | React, TypeScript, Vite |
+| [Sweepr](https://github.com/amandeavor/Sweepr) | Terminal file organization with dry-run previews and undo manifests. | Python, Typer, Rich |
+| [Aetheris OS](https://github.com/amandeavor/Aetheris-OS) | Experimental Void Linux system project with desktop tooling and utilities. | Rust, C, Svelte, Linux |
 
 ## Technical foundation
 
-My public work includes TypeScript and React applications, Node.js command-line tooling, Python automation, and Linux-oriented components written in Rust and C. I value clear documentation, sensible defaults, and tools that are understandable to the people who use them.
-
-## Current focus
-
-- Financial analysis, business intelligence, and investment-banking fundamentals
-- CA Foundation preparation
-- Developer tools, automation, and Linux systems
-- Building well-documented open-source projects
+My public work spans TypeScript and React applications, Node.js CLI tooling, Python automation, and Linux-oriented components in Rust and C. I am especially interested in software that makes complex processes more organized, inspectable, and reliable.
 
 ## Portfolio
 
-- [Portfolio website](https://amandeavor.netlify.app)
+[amandeavor.netlify.app](https://amandeavor.netlify.app)
