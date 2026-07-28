@@ -12,7 +12,7 @@ My interests include financial analysis, investment banking, business intelligen
 
 | Project | What it is | Main technologies |
 | --- | --- | --- |
-| [Aman Intelligence CLI](https://github.com/amandeavor/aman-intelligence-CLI) | A command-line tool for installing and organizing AI workflow assets, including skills, prompts, MCP configurations, packs, and stacks. | TypeScript, Node.js |
+| [Aman CLI](https://github.com/amandeavor/aman-cli) | A command-line tool for installing and organizing AI workflow assets, including skills, prompts, MCP configurations, packs, and stacks. | TypeScript, Node.js |
 | [ObsidianKit](https://github.com/amandeavor/ObsidianKit) | A browser-native toolbox for document, image, media, calculator, and utility workflows. | React, TypeScript, Vite |
 | [sweepr](https://github.com/amandeavor/sweepr) | A terminal file organizer with dry-run previews, undo manifests, and organization by type or modification date. | Python, Typer, Rich |
 | [Aetheris OS](https://github.com/amandeavor/Aetheris-OS) | An experimental Void-based Linux system project with supporting installer, driver-management, app-store, setup, and preloading components. | Rust, C, Svelte, Linux |
