@@ -22,8 +22,6 @@ My interests include financial analysis, investment banking, business intelligen
 - **Merged:** [jest-codemods #672](https://github.com/skovhus/jest-codemods/pull/672) — preserved aliased imports while transforming deprecated Jest timer APIs.
 - **In review:** [svg2pdf.js #372](https://github.com/yWorks/svg2pdf.js/pull/372) — fixes SVG link annotation bounds and adds browser regression coverage.
 - **In review:** [opencode-mem #279](https://github.com/tickernelz/opencode-mem/pull/279) — reduces DiskANN index storage overhead for high-dimensional embeddings and verifies both tuned indexes.
-- **In review:** [glossarium #201](https://github.com/typst-community/glossarium/pull/201) — makes custom capitalization consistent across reference syntax and direct calls, with regression tests and documentation.
-- **Reviewed:** [glossarium #195](https://github.com/typst-community/glossarium/pull/195#pullrequestreview-5051489748) — validated the full test and documentation builds and identified missing public-API regression coverage.
 - **In review:** [mistletoe #291](https://github.com/miyuchina/mistletoe/pull/291) — removes an unnecessary test dependency while preserving case-level coverage across modern pytest and standard-library unittest.
 
 ## Technical foundation
