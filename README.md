@@ -17,6 +17,12 @@ My interests include financial analysis, investment banking, business intelligen
 | [sweepr](https://github.com/amandeavor/sweepr) | A terminal file organizer with dry-run previews, undo manifests, and organization by type or modification date. | Python, Typer, Rich |
 | [Aetheris OS](https://github.com/amandeavor/Aetheris-OS) | An experimental Void-based Linux system project with supporting installer, driver-management, app-store, setup, and preloading components. | Rust, C, Svelte, Linux |
 
+## Open-source work
+
+- **Merged:** [jest-codemods #672](https://github.com/skovhus/jest-codemods/pull/672) — preserved aliased imports while transforming deprecated Jest timer APIs.
+- **In review:** [svg2pdf.js #372](https://github.com/yWorks/svg2pdf.js/pull/372) — fixes SVG link annotation bounds and adds browser regression coverage.
+- **In review:** [opencode-mem #279](https://github.com/tickernelz/opencode-mem/pull/279) — reduces DiskANN index storage overhead for high-dimensional embeddings and verifies both tuned indexes.
+
 ## Technical foundation
 
 My public work includes TypeScript and React applications, Node.js command-line tooling, Python automation, and Linux-oriented components written in Rust and C. I value clear documentation, sensible defaults, and tools that are understandable to the people who use them.
