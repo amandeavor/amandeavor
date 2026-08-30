@@ -50,8 +50,8 @@ Financial analysis and investment-banking fundamentals · CA Foundation preparat
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,nodejs,react,py,rust,c,svelte,tauri,git,linux&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,py,rust,c,svelte,tauri,git,linux&theme=light" alt="TypeScript, JavaScript, Node.js, React, Python, Rust, C, Svelte, Tauri, Git, and Linux" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cnodejs%2Creact%2Cvite%2Cpy%2Crust%2Cc%2Csvelte%2Ctauri%2Cgit%2Clinux&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Cnodejs%2Creact%2Cvite%2Cpy%2Crust%2Cc%2Csvelte%2Ctauri%2Cgit%2Clinux&amp;theme=light" alt="TypeScript, JavaScript, Node.js, React, Vite, Python, Rust, C, Svelte, Tauri, Git, and Linux" />
   </picture>
 </p>
 
