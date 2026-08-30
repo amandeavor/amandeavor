@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
   <title id="title">Aman Awasthi</title>
-  <desc id="description">Banking and Finance student, software builder, and open-source maintainer based in Dehradun, India.</desc>
+  <desc id="description">Banking and Finance student, software builder, and open-source maintainer based in India.</desc>
   <style>
     .panel { fill: #f5f7f8; stroke: #d7dde2; }
     .ink { fill: #17212b; }
@@ -37,7 +37,7 @@
   <line class="rule" x1="830" y1="48" x2="830" y2="218" stroke-width="1" />
 
   <text class="label quiet" x="874" y="65">BASED IN</text>
-  <text class="meta ink" x="874" y="91">Dehradun, India</text>
+  <text class="meta ink" x="874" y="91">India</text>
 
   <text class="label quiet" x="874" y="130">CURRENT WORK</text>
   <text class="meta ink" x="874" y="156">Open-source maintenance</text>

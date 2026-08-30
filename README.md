@@ -32,7 +32,8 @@ I contribute focused fixes, regression coverage, issue triage, and pull-request 
 - **In review:** [**rtk #3755**](https://github.com/rtk-ai/rtk/pull/3755) adds Windows-aware routing for `py`, virtual-environment, and full-path Python test launchers while preserving `pytest` and `unittest` behavior.
 - **In review:** [**tensorflow-onnx #2487**](https://github.com/onnx/tensorflow-onnx/pull/2487) fixes Keras 3 model-output mapping against traced TensorFlow tensors and adds `.keras` save/load regression coverage.
 - **In review:** [**svg2pdf.js #372**](https://github.com/yWorks/svg2pdf.js/pull/372) corrects PDF link-annotation hitboxes generated from SVG element bounds and adds browser regression coverage.
-- **In review:** [**opencode-mem #279**](https://github.com/tickernelz/opencode-mem/pull/279), [**#289**](https://github.com/tickernelz/opencode-mem/pull/289), and [**#290**](https://github.com/tickernelz/opencode-mem/pull/290) improve vector-index storage, provider parameter handling, and memory-search feedback.
+- **Merged:** [**opencode-mem #279**](https://github.com/tickernelz/opencode-mem/pull/279) reduces DiskANN vector-index storage overhead, and [**#290**](https://github.com/tickernelz/opencode-mem/pull/290) adds matched-memory feedback to Web UI search.
+- **In review:** [**opencode-mem #289**](https://github.com/tickernelz/opencode-mem/pull/289) preserves provider parameters during profile cleanup.
 
 ## Engineering approach
 
@@ -54,5 +55,3 @@ Financial analysis and investment-banking fundamentals · CA Foundation preparat
     <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Cnodejs%2Creact%2Cvite%2Cpy%2Crust%2Cc%2Csvelte%2Ctauri%2Cgit%2Clinux&amp;theme=light" alt="TypeScript, JavaScript, Node.js, React, Vite, Python, Rust, C, Svelte, Tauri, Git, and Linux" />
   </picture>
 </p>
-
-<p align="center"><sub>Building carefully. Maintaining what matters.</sub></p>
