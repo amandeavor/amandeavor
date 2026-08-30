@@ -1,40 +1,64 @@
-# Aman Awasthi
+<h1 align="center">Aman Awasthi</h1>
 
-Finance and Business Intelligence student, CA Foundation candidate, and software builder. I work across financial analysis, developer tools, Linux systems, automation, and web applications.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=C9D1D9&center=true&vCenter=true&width=420&height=40&lines=Finance+student;Software+builder;Open-source+contributor">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=3B3F45&center=true&vCenter=true&width=420&height=40&lines=Finance+student;Software+builder;Open-source+contributor" alt="Finance student · Software builder · Open-source contributor" width="420" height="40">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://amandeavor.netlify.app/">Portfolio</a> ·
+  <a href="https://github.com/amandeavor/Aman-CLI">Aman CLI</a> ·
+  <a href="https://github.com/amandeavor/ObsidianKit">ObsidianKit</a> ·
+  <a href="https://github.com/amandeavor/Aetheris-OS">Aetheris OS</a>
+</p>
+
+---
 
 ## About
 
-I am pursuing a B.Com (Hons.) in Financial Analysis and Business Intelligence in academic partnership with EY. Alongside my academic work and CA Foundation preparation, I build practical software and explore the technology behind clear, dependable workflows.
+I am pursuing a **B.Com (Hons.) in Banking & Finance** and preparing for **CA Foundation**. In parallel, I build software across developer tooling, browser applications, automation, and Linux systems.
 
-My interests include financial analysis, investment banking, business intelligence, open source, Linux, AI developer tooling, and software development.
+My public work spans **TypeScript, Node.js, React, Python, Rust, C, and Linux tooling**. I am especially interested in practical systems: tools that solve a clear problem, behave predictably, and are documented well enough for someone else to understand and use.
 
-## Selected projects
+## Selected work
 
-| Project | What it is | Main technologies |
+| Project | What I built | Stack |
 | --- | --- | --- |
-| [Aman CLI](https://github.com/amandeavor/aman-cli) | A command-line tool for installing and organizing AI workflow assets, including skills, prompts, MCP configurations, packs, and stacks. | TypeScript, Node.js |
-| [ObsidianKit](https://github.com/amandeavor/ObsidianKit) | A browser-native toolbox for document, image, media, calculator, and utility workflows. | React, TypeScript, Vite |
-| [sweepr](https://github.com/amandeavor/sweepr) | A terminal file organizer with dry-run previews, undo manifests, and organization by type or modification date. | Python, Typer, Rich |
-| [Aetheris OS](https://github.com/amandeavor/Aetheris-OS) | An experimental Void-based Linux system project with supporting installer, driver-management, app-store, setup, and preloading components. | Rust, C, Svelte, Linux |
+| [**Aetheris OS**](https://github.com/amandeavor/Aetheris-OS) | Experimental Void Linux system project with hardware/driver tooling, a Tauri installer and software center, first-boot setup, package templates, system configuration, and a preload daemon. | Rust, C, Svelte, Tauri, Linux |
+| [**Aman CLI**](https://github.com/amandeavor/Aman-CLI) | Command-line tooling for installing and organizing AI workflow assets such as skills, prompts, MCP configurations, packs, and stacks. | TypeScript, Node.js |
+| [**ObsidianKit**](https://github.com/amandeavor/ObsidianKit) | Browser-native toolbox for document, image, media, calculator, and utility workflows, with a public web deployment. | React, TypeScript, Vite |
+| [**Sweepr**](https://github.com/amandeavor/Sweepr) | Terminal file organizer with dry-run previews, undo manifests, and organization by file type or modification date. | Python, Typer, Rich |
 
-## Open-source work
+## Open-source contributions
 
-- **Merged:** [jest-codemods #672](https://github.com/skovhus/jest-codemods/pull/672) — preserved aliased imports while transforming deprecated Jest timer APIs.
-- **In review:** [svg2pdf.js #372](https://github.com/yWorks/svg2pdf.js/pull/372) — fixes SVG link annotation bounds and adds browser regression coverage.
-- **In review:** [opencode-mem #279](https://github.com/tickernelz/opencode-mem/pull/279) — reduces DiskANN index storage overhead for high-dimensional embeddings and verifies both tuned indexes.
-- **In review:** [mistletoe #291](https://github.com/miyuchina/mistletoe/pull/291) — removes an unnecessary test dependency while preserving case-level coverage across modern pytest and standard-library unittest.
+I contribute focused fixes to existing projects, usually with regression coverage and local validation.
 
-## Technical foundation
+- **Merged** — [jest-codemods #672](https://github.com/skovhus/jest-codemods/pull/672) — fixed a TypeScript edge case where callbacks declaring a special `this` parameter could be transformed into invalid arrow-function syntax; added a regression test.
+- **Open** — [rtk #3755](https://github.com/rtk-ai/rtk/pull/3755) — adds Windows-aware routing for `py`, virtual-environment, and full-path Python test launchers while preserving `pytest` and `unittest` behavior.
+- **Open** — [tensorflow-onnx #2487](https://github.com/onnx/tensorflow-onnx/pull/2487) — fixes Keras 3 model-output mapping against traced TensorFlow tensors and adds `.keras` save/load regression coverage.
+- **Open** — [svg2pdf.js #372](https://github.com/yWorks/svg2pdf.js/pull/372) — corrects PDF link-annotation hitboxes generated from SVG element bounds and adds browser regression coverage.
+- **Open** — [opencode-mem #279](https://github.com/tickernelz/opencode-mem/pull/279) — reduces DiskANN index storage overhead for high-dimensional embeddings and verifies direct vector lookups through the tuned indexes.
 
-My public work includes TypeScript and React applications, Node.js command-line tooling, Python automation, and Linux-oriented components written in Rust and C. I value clear documentation, sensible defaults, and tools that are understandable to the people who use them.
+## Engineering approach
+
+- Reproduce the failure before changing the implementation.
+- Add regression coverage where the project makes it practical.
+- Prefer small, reviewable fixes over broad rewrites.
+- Keep documentation aligned with what the repository actually does.
+- Use clear defaults, explicit failure modes, and reversible workflows where possible.
 
 ## Current focus
 
-- Financial analysis, business intelligence, and investment-banking fundamentals
+- Financial analysis and investment-banking fundamentals
 - CA Foundation preparation
-- Developer tools, automation, and Linux systems
-- Building well-documented open-source projects
+- Developer tools and automation
+- Linux and systems-oriented software
+- Deeper open-source contributions and maintainable public projects
 
-## Portfolio
+## Technologies
 
-- [Portfolio website](https://amandeavor.netlify.app)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,py,rust,c,svelte,tauri,git,linux" alt="TypeScript, JavaScript, Node.js, React, Python, Rust, C, Svelte, Tauri, Git, Linux" />
+</p>
