@@ -48,6 +48,11 @@ Financial analysis and investment-banking fundamentals · CA Foundation preparat
 
 ## Technologies
 
-`TypeScript` · `JavaScript` · `Node.js` · `React` · `Python` · `Rust` · `C` · `Svelte` · `Tauri` · `Git` · `Linux`
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,nodejs,react,py,rust,c,svelte,tauri,git,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,py,rust,c,svelte,tauri,git,linux&theme=light" alt="TypeScript, JavaScript, Node.js, React, Python, Rust, C, Svelte, Tauri, Git, and Linux" />
+  </picture>
+</p>
 
 <p align="center"><sub>Building carefully. Maintaining what matters.</sub></p>
