@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Aman Awasthi</title>
+  <desc id="description">Finance student, software builder, and open-source maintainer.</desc>
+  <style>
+    .panel { fill: #f5f7f8; stroke: #d7dde2; }
+    .ink { fill: #17212b; }
+    .muted { fill: #62717e; }
+    .rule { stroke: #c8d0d7; }
+    .accent { stroke: #607d91; }
+    .node { fill: #607d91; }
+    .name { font: 600 66px Georgia, 'Times New Roman', serif; letter-spacing: -1.4px; }
+    .eyebrow { font: 500 13px ui-monospace, SFMono-Regular, Consolas, monospace; letter-spacing: 3px; }
+    .role { font: 400 18px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; letter-spacing: .35px; }
+    .label { font: 600 11px ui-monospace, SFMono-Regular, Consolas, monospace; letter-spacing: 2.2px; }
+    .sweep { stroke-dasharray: 110 890; animation: sweep 12s linear infinite; }
+    @keyframes sweep { to { stroke-dashoffset: -1000; } }
+    @media (prefers-color-scheme: dark) {
+      .panel { fill: #111820; stroke: #29343e; }
+      .ink { fill: #edf1f3; }
+      .muted { fill: #9aa8b4; }
+      .rule { stroke: #33414c; }
+      .accent { stroke: #87a5b8; }
+      .node { fill: #87a5b8; }
+    }
+    @media (prefers-reduced-motion: reduce) { .sweep { animation: none; } }
+  </style>
+
+  <rect class="panel" x="1" y="1" width="1198" height="298" rx="16" />
+
+  <text class="eyebrow muted" x="64" y="61">FINANCE · SOFTWARE · OPEN SOURCE</text>
+  <text class="name ink" x="60" y="140">Aman Awasthi</text>
+  <text class="role muted" x="64" y="181">Banking &amp; Finance student · CA Foundation candidate · software builder</text>
+
+  <line class="rule" x1="64" y1="224" x2="1136" y2="224" stroke-width="1" />
+  <line class="accent sweep" x1="64" y1="224" x2="1136" y2="224" stroke-width="2" pathLength="1000" />
+
+  <circle class="node" cx="68" cy="224" r="3" />
+  <circle class="node" cx="600" cy="224" r="3" />
+  <circle class="node" cx="1132" cy="224" r="3" />
+  <text class="label muted" x="64" y="257">ANALYZE</text>
+  <text class="label muted" x="570" y="257">BUILD</text>
+  <text class="label muted" x="1038" y="257">MAINTAIN</text>
+</svg>
