@@ -4,6 +4,8 @@
 
 <p align="center">
   <a href="https://amandeavor.netlify.app/">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/amandeavor">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:amandeavor@gmail.com">Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/amandeavor/Aman-CLI">Aman CLI</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/amandeavor/ObsidianKit">ObsidianKit</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/amandeavor/Aetheris-OS">Aetheris OS</a>
