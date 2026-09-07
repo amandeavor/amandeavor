@@ -2,17 +2,17 @@
   <title id="title">Aman Awasthi — Amandeavor</title>
   <desc id="description">Finance student and software builder. A warm monochrome wordmark with a geometric line sculpture.</desc>
   <style>
-    .ink { fill: #242321; }
-    .muted { fill: #70675f; }
+    .ink { fill: #f4f0eb; }
+    .muted { fill: #b9b1a8; }
     .sculpture { transform-origin: 986px 192px; animation: settle 1800ms cubic-bezier(.2,.7,.2,1) both; }
     @keyframes settle { from { opacity: .35; transform: translateY(8px) rotate(-8deg); } to { opacity: 1; transform: translateY(0) rotate(0deg); } }
     @media (prefers-reduced-motion: reduce) { .sculpture { animation: none; } }
   </style>
-  <rect width="1200" height="400" rx="12" fill="#faf7f3"/>
+  <rect width="1200" height="400" rx="12" fill="#111111"/>
   <text x="58" y="60" class="muted" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3">AMANDEAVOR</text>
   <text x="56" y="165" class="ink" font-family="Arial, Helvetica, sans-serif" font-size="79" font-weight="600" letter-spacing="-4">Aman Awasthi.</text>
-  <text x="58" y="239" fill="#80654b" font-family="Georgia, 'Times New Roman', serif" font-size="57" font-style="italic" letter-spacing="-2">Ideas into software.</text>
-  <g class="sculpture" fill="none" stroke="#80654b" stroke-width="1.2">
+  <text x="58" y="239" fill="#cdb496" font-family="Georgia, 'Times New Roman', serif" font-size="57" font-style="italic" letter-spacing="-2">Ideas into software.</text>
+  <g class="sculpture" fill="none" stroke="#cdb496" stroke-width="1.2">
     <ellipse cx="986" cy="192" rx="110" ry="43" transform="rotate(0 986 192)" opacity=".85"/>
     <ellipse cx="986" cy="192" rx="110" ry="43" transform="rotate(15 986 192)" opacity=".45"/>
     <ellipse cx="986" cy="192" rx="110" ry="43" transform="rotate(30 986 192)" opacity=".45"/>
@@ -25,9 +25,9 @@
     <ellipse cx="986" cy="192" rx="110" ry="43" transform="rotate(135 986 192)" opacity=".85"/>
     <ellipse cx="986" cy="192" rx="110" ry="43" transform="rotate(150 986 192)" opacity=".45"/>
     <ellipse cx="986" cy="192" rx="110" ry="43" transform="rotate(165 986 192)" opacity=".45"/>
-    <circle cx="986" cy="192" r="5" fill="#80654b" stroke="none"/>
+    <circle cx="986" cy="192" r="5" fill="#cdb496" stroke="none"/>
   </g>
-  <path d="M58 310H1142" stroke="#ded7ce"/>
+  <path d="M58 310H1142" stroke="#39342f"/>
   <text x="58" y="351" class="muted" font-family="Arial, Helvetica, sans-serif" font-size="18">Finance student. Software builder.</text>
   <text x="1142" y="351" text-anchor="end" class="muted" font-family="Arial, Helvetica, sans-serif" font-size="18">Based in India</text>
 </svg>
