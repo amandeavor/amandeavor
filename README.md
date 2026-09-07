@@ -9,7 +9,9 @@
 
 <br />
 
-I am pursuing a **B.Com (Hons.) in Banking & Finance** and preparing for **CA Foundation**. In parallel, I build software across developer tooling, browser applications, automation, and Linux systems.
+I’m **Aman Awasthi**, a software builder studying Banking & Finance in India.
+
+Alongside my B.Com (Hons.) and CA Foundation preparation, I work on developer tools, browser applications and Linux systems.
 
 I like work where the details matter: a command that previews its changes, an error that explains what happened, a fix someone else can review.
 
@@ -17,12 +19,31 @@ I like work where the details matter: a command that previews its changes, an er
 
 ## Selected work
 
-| Project | What I built | Stack |
-| :--- | :--- | :--- |
-| [**Aetheris OS**](https://github.com/amandeavor/Aetheris-OS) | Experimental Void Linux system with installation, setup and software-management tools. | Rust, C, Svelte, Tauri, Linux |
-| [**Aman CLI**](https://github.com/amandeavor/Aman-CLI) | Installs and organizes skills, prompts and MCP configurations for AI workflows. | TypeScript, Node.js |
-| [**ObsidianKit**](https://github.com/amandeavor/ObsidianKit) | Browser toolbox for document, image, media and everyday utility tasks. | React, TypeScript, Vite |
-| [**Sweepr**](https://github.com/amandeavor/Sweepr) | Terminal file organizer with dry-run previews, undo manifests, and organization by file type or modification date. | Python, Typer, Rich |
+### [Aetheris OS ↗](https://github.com/amandeavor/Aetheris-OS)
+
+An experimental Void Linux system with installation, setup and software-management tools.
+
+<sub>Rust · C · Svelte · Tauri · Linux</sub>
+
+### [Aman CLI ↗](https://github.com/amandeavor/Aman-CLI)
+
+Installs and organizes skills, prompts and MCP configurations for AI workflows.
+
+<sub>TypeScript · Node.js</sub>
+
+### [ObsidianKit ↗](https://github.com/amandeavor/ObsidianKit)
+
+A browser toolbox for document, image, media and everyday utility tasks.
+
+<sub>React · TypeScript · Vite</sub>
+
+### [Sweepr ↗](https://github.com/amandeavor/Sweepr)
+
+Organizes files from the terminal, with dry-run previews and undo manifests.
+
+<sub>Python · Typer · Rich</sub>
+
+<br />
 
 [View all work on my portfolio →](https://amandeavor.pages.dev/projects/)
 
@@ -32,9 +53,15 @@ I like work where the details matter: a command that previews its changes, an er
 
 I contribute focused fixes, regression coverage, issue triage, and pull-request reviews. I currently help maintain [**opencode-mem**](https://github.com/tickernelz/opencode-mem) and [**awesome-free-apps**](https://github.com/Axorax/awesome-free-apps).
 
-- [**svg2pdf.js #372**](https://github.com/yWorks/svg2pdf.js/pull/372) corrected PDF link-annotation hitboxes generated from SVG element bounds and added browser regression coverage.
-- [**jest-codemods #672**](https://github.com/skovhus/jest-codemods/pull/672) fixed a TypeScript edge case where callbacks declaring a special `this` parameter could be transformed into invalid arrow-function syntax, with regression coverage.
-- [**opencode-mem #279**](https://github.com/tickernelz/opencode-mem/pull/279) reduces DiskANN vector-index storage overhead, and [**#290**](https://github.com/tickernelz/opencode-mem/pull/290) adds matched-memory feedback to Web UI search.
+**[svg2pdf.js #372](https://github.com/yWorks/svg2pdf.js/pull/372)**  
+Correcting PDF link hitboxes, with browser regression coverage.
+
+**[jest-codemods #672](https://github.com/skovhus/jest-codemods/pull/672)**  
+Handling TypeScript callbacks with a special `this` parameter.
+
+**[opencode-mem #279](https://github.com/tickernelz/opencode-mem/pull/279) · [#290](https://github.com/tickernelz/opencode-mem/pull/290)**  
+Reducing vector-index storage overhead and adding matched-memory feedback in search.
+
 <details>
 <summary>More contributions</summary>
 
@@ -46,13 +73,13 @@ I contribute focused fixes, regression coverage, issue triage, and pull-request 
 
 <br />
 
-## Engineering approach
+## How I work
 
-- Reproduce the failure before changing the implementation.
-- Add regression coverage where the project makes it practical.
-- Prefer small, reviewable fixes over broad rewrites.
-- Keep documentation aligned with what the repository actually does.
-- Use clear defaults, explicit failure modes, and reversible workflows.
+**Understand the failure.** Reproduce it before changing the implementation.
+
+**Make the fix reviewable.** Keep changes focused and add regression coverage where it helps.
+
+**Leave a clear trail.** Document actual behavior, explain failures and make changes reversible.
 
 <br />
 

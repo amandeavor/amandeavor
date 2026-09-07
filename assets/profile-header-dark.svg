@@ -4,28 +4,20 @@
   <style>
     .ink { fill: #f4f0eb; }
     .muted { fill: #b9b1a8; }
-    .sculpture { transform-origin: 986px 192px; animation: settle 1800ms cubic-bezier(.2,.7,.2,1) both; }
-    @keyframes settle { from { opacity: .35; transform: translateY(8px) rotate(-8deg); } to { opacity: 1; transform: translateY(0) rotate(0deg); } }
-    @media (prefers-reduced-motion: reduce) { .sculpture { animation: none; } }
   </style>
   <rect width="1200" height="400" rx="12" fill="#111111"/>
   <text x="58" y="60" class="muted" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3">AMANDEAVOR</text>
   <text x="56" y="165" class="ink" font-family="Arial, Helvetica, sans-serif" font-size="79" font-weight="600" letter-spacing="-4">Aman Awasthi.</text>
   <text x="58" y="239" fill="#cdb496" font-family="Georgia, 'Times New Roman', serif" font-size="57" font-style="italic" letter-spacing="-2">Ideas into software.</text>
-  <g class="sculpture" fill="none" stroke="#cdb496" stroke-width="1.2">
-    <ellipse cx="986" cy="192" rx="110" ry="43" transform="rotate(0 986 192)" opacity=".85"/>
-    <ellipse cx="986" cy="192" rx="110" ry="43" transform="rotate(15 986 192)" opacity=".45"/>
-    <ellipse cx="986" cy="192" rx="110" ry="43" transform="rotate(30 986 192)" opacity=".45"/>
-    <ellipse cx="986" cy="192" rx="110" ry="43" transform="rotate(45 986 192)" opacity=".85"/>
-    <ellipse cx="986" cy="192" rx="110" ry="43" transform="rotate(60 986 192)" opacity=".45"/>
-    <ellipse cx="986" cy="192" rx="110" ry="43" transform="rotate(75 986 192)" opacity=".45"/>
-    <ellipse cx="986" cy="192" rx="110" ry="43" transform="rotate(90 986 192)" opacity=".85"/>
-    <ellipse cx="986" cy="192" rx="110" ry="43" transform="rotate(105 986 192)" opacity=".45"/>
-    <ellipse cx="986" cy="192" rx="110" ry="43" transform="rotate(120 986 192)" opacity=".45"/>
-    <ellipse cx="986" cy="192" rx="110" ry="43" transform="rotate(135 986 192)" opacity=".85"/>
-    <ellipse cx="986" cy="192" rx="110" ry="43" transform="rotate(150 986 192)" opacity=".45"/>
-    <ellipse cx="986" cy="192" rx="110" ry="43" transform="rotate(165 986 192)" opacity=".45"/>
-    <circle cx="986" cy="192" r="5" fill="#cdb496" stroke="none"/>
+  <g transform="translate(986 192) rotate(-28)" fill="none" stroke="#cdb496" stroke-width="1.15">
+    <circle r="104" opacity=".8"/>
+    <ellipse rx="80" ry="104" opacity=".48"/>
+    <ellipse rx="43" ry="104" opacity=".65"/>
+    <path d="M0-104V104" opacity=".35"/>
+    <ellipse rx="104" ry="30" opacity=".55"/>
+    <path d="M-90-52C-68-23 68-23 90-52M-90 52C-68 81 68 81 90 52" opacity=".42"/>
+    <ellipse rx="132" ry="42" stroke-width="1.6" opacity=".85"/>
+    <circle cx="123" cy="15" r="3.5" fill="#cdb496" stroke="none"/>
   </g>
   <path d="M58 310H1142" stroke="#39342f"/>
   <text x="58" y="351" class="muted" font-family="Arial, Helvetica, sans-serif" font-size="18">Finance student. Software builder.</text>
