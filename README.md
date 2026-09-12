@@ -17,6 +17,33 @@ I like work where the details matter: a command that previews its changes, an er
 
 <br />
 
+## Open-source contributions
+
+I help maintain [**opencode-mem**](https://github.com/tickernelz/opencode-mem) and [**awesome-free-apps**](https://github.com/Axorax/awesome-free-apps), and contribute fixes and tests to developer tools.
+
+**13 merged pull requests across 6 external repositories**, verified on September 12, 2026 for the preceding 12 months. [Browse the contribution record →](./CONTRIBUTIONS.md)
+
+| Project | Selected merged work |
+| --- | --- |
+| **opencode-mem** | [Reduce storage overhead for new vector indexes](https://github.com/tickernelz/opencode-mem/pull/279), [preserve provider parameters](https://github.com/tickernelz/opencode-mem/pull/289), and [show matched-memory counts](https://github.com/tickernelz/opencode-mem/pull/290). |
+| **Inversify** | [Validate OpenAPI base-URI declarations](https://github.com/inversify/monorepo/pull/2104) and [support discriminated errors in HTTP error filters](https://github.com/inversify/monorepo/pull/2108). |
+| **awesome-free-apps** | [Make link audits detect HTTP failures, limit concurrency, and return meaningful exit statuses](https://github.com/Axorax/awesome-free-apps/pull/296). |
+| **svg2pdf.js** | [Align PDF link hitboxes with rendered SVG elements](https://github.com/yWorks/svg2pdf.js/pull/372). |
+| **jest-codemods** | [Preserve TypeScript `this` parameters during migration](https://github.com/skovhus/jest-codemods/pull/672). |
+| **RTK** | [Add regression coverage for anchored command-filter patterns](https://github.com/rtk-ai/rtk/pull/3807). |
+
+<details>
+<summary>Proposed contributions awaiting review</summary>
+
+- [RTK #3755](https://github.com/rtk-ai/rtk/pull/3755): Windows Python test-launcher routing.
+- [tensorflow-onnx #2487](https://github.com/onnx/tensorflow-onnx/pull/2487): Keras 3 model-output mapping and save/load regression coverage.
+
+These pull requests were open, not merged, when this profile was updated on September 12, 2026.
+
+</details>
+
+<br />
+
 ## Selected work
 
 ### [Aetheris OS ↗](https://github.com/amandeavor/Aetheris-OS)
@@ -46,30 +73,6 @@ Organizes files from the terminal, with dry-run previews and undo manifests.
 <br />
 
 [View all work on my portfolio →](https://amandeavor.pages.dev/projects/)
-
-<br />
-
-## Open-source maintenance
-
-I contribute focused fixes, regression coverage, issue triage, and pull-request reviews. I currently help maintain [**opencode-mem**](https://github.com/tickernelz/opencode-mem) and [**awesome-free-apps**](https://github.com/Axorax/awesome-free-apps).
-
-**[svg2pdf.js #372](https://github.com/yWorks/svg2pdf.js/pull/372)**  
-Correcting PDF link hitboxes, with browser regression coverage.
-
-**[jest-codemods #672](https://github.com/skovhus/jest-codemods/pull/672)**  
-Handling TypeScript callbacks with a special `this` parameter.
-
-**[opencode-mem #279](https://github.com/tickernelz/opencode-mem/pull/279) · [#290](https://github.com/tickernelz/opencode-mem/pull/290)**  
-Reducing vector-index storage overhead and adding matched-memory feedback in search.
-
-<details>
-<summary>More contributions</summary>
-
-- [**opencode-mem #289**](https://github.com/tickernelz/opencode-mem/pull/289) preserves provider parameters and safeguards non-streaming endpoints during profile cleanup.
-- [**rtk #3755**](https://github.com/rtk-ai/rtk/pull/3755) adds Windows-aware routing for `py`, virtual-environment, and full-path Python test launchers while preserving `pytest` and `unittest` behavior.
-- [**tensorflow-onnx #2487**](https://github.com/onnx/tensorflow-onnx/pull/2487) fixes Keras 3 model-output mapping against traced TensorFlow tensors and adds `.keras` save/load regression coverage.
-
-</details>
 
 <br />
 
