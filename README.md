@@ -21,24 +21,34 @@ I like work where the details matter: a command that previews its changes, an er
 
 I help maintain [**opencode-mem**](https://github.com/tickernelz/opencode-mem) and [**awesome-free-apps**](https://github.com/Axorax/awesome-free-apps), and contribute fixes and tests to developer tools.
 
-**13 merged pull requests across 6 external repositories**, verified on September 12, 2026 for the preceding 12 months. [Browse the contribution record →](./CONTRIBUTIONS.md)
+**25 merged pull requests across 16 external repositories** (125 merged PRs across all repositories), verified on September 28, 2026. [Browse the contribution record →](./CONTRIBUTIONS.md)
 
 | Project | Selected merged work |
 | --- | --- |
 | **opencode-mem** | [Reduce storage overhead for new vector indexes](https://github.com/tickernelz/opencode-mem/pull/279), [preserve provider parameters](https://github.com/tickernelz/opencode-mem/pull/289), and [show matched-memory counts](https://github.com/tickernelz/opencode-mem/pull/290). |
+| **Wave** | [Handle non-UTF-8 program output in the native case runner](https://github.com/wavefnd/Wave/pull/743) and [reject null write buffers before opening files](https://github.com/wavefnd/Wave/pull/742). |
 | **Inversify** | [Validate OpenAPI base-URI declarations](https://github.com/inversify/monorepo/pull/2104) and [support discriminated errors in HTTP error filters](https://github.com/inversify/monorepo/pull/2108). |
-| **awesome-free-apps** | [Make link audits detect HTTP failures, limit concurrency, and return meaningful exit statuses](https://github.com/Axorax/awesome-free-apps/pull/296). |
+| **test-reporter** | [Handle test failures with attribute-only messages](https://github.com/dorny/test-reporter/pull/814). |
+| **repodx** | [Detect secrets exposed through public env prefixes](https://github.com/omerbek/repodx/pull/29). |
+| **rolecraft** | [Use UserError for skill-not-found in remove and update APIs](https://github.com/rolecraft-sh/rolecraft/pull/298). |
+| **vitepress-carbon** | [Drop invalid `:deep()` from unscoped DocSearch styles](https://github.com/brenoepics/vitepress-carbon/pull/345). |
 | **svg2pdf.js** | [Align PDF link hitboxes with rendered SVG elements](https://github.com/yWorks/svg2pdf.js/pull/372). |
+| **shep** | [Clarify view and deliver documentation comments](https://github.com/shep-pm/shep/pull/621). |
+| **freeCodeCamp** | [Correct integers/floats lecture terminology](https://github.com/freeCodeCamp/freeCodeCamp/pull/70378). |
 | **jest-codemods** | [Preserve TypeScript `this` parameters during migration](https://github.com/skovhus/jest-codemods/pull/672). |
 | **RTK** | [Add regression coverage for anchored command-filter patterns](https://github.com/rtk-ai/rtk/pull/3807). |
+| **awesome-free-apps** | [Make link audits detect HTTP failures, limit concurrency, and return meaningful exit statuses](https://github.com/Axorax/awesome-free-apps/pull/296). |
 
 <details>
-<summary>Proposed contributions awaiting review</summary>
+<summary>Selected contributions under active review</summary>
 
-- [RTK #3755](https://github.com/rtk-ai/rtk/pull/3755): Windows Python test-launcher routing.
+- [opencode-mem #319](https://github.com/tickernelz/opencode-mem/pull/319): Report batch tag migration failure counts and handle dialog progress states.
+- [vitepress-carbon #346](https://github.com/brenoepics/vitepress-carbon/pull/346): Resolve markdown-it type-only imports and sync package locks.
+- [svg2pdf.js #384](https://github.com/yWorks/svg2pdf.js/pull/384): Accept unquoted non-ASCII font-family values in SVG font matching.
+- [test-reporter #834](https://github.com/dorny/test-reporter/pull/834): Surface PHPUnit JUnit error details when only failure type is specified.
 - [tensorflow-onnx #2487](https://github.com/onnx/tensorflow-onnx/pull/2487): Keras 3 model-output mapping and save/load regression coverage.
 
-These pull requests were open, not merged, when this profile was updated on September 12, 2026.
+These pull requests are actively under review as of September 28, 2026.
 
 </details>
 
