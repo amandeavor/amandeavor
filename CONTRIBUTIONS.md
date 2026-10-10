@@ -1,6 +1,6 @@
 # Open-source contribution record
 
-Verified September 28, 2026. This record covers merged pull requests authored by **amandeavor** into repositories outside the `amandeavor` account. Repository popularity is not attributed to individual contributions.
+Verified October 10, 2026. This record covers merged pull requests authored by **amandeavor** into repositories outside the `amandeavor` account. Repository popularity is not attributed to individual contributions.
 
 ## Maintenance involvement
 
@@ -8,10 +8,18 @@ I help maintain [opencode-mem](https://github.com/tickernelz/opencode-mem) and [
 
 ## Merged work
 
-**25 merged pull requests across 16 external repositories** (125 merged pull requests across all repositories). Open or closed-unmerged proposals are excluded.
+**33 merged pull requests across 18 external repositories** (133 merged pull requests across all repositories). Open or closed-unmerged proposals are excluded.
 
 | Repository | Pull request | Merged (UTC) |
 | --- | --- | --- |
+| compio-rs/compio | [fix(quic): ignore empty UDP datagrams in endpoint](https://github.com/compio-rs/compio/pull/1070) | 2026-10-10 |
+| unoplatform/uno | [docs(compass): correct ReportInterval support for iOS and WASM](https://github.com/unoplatform/uno/pull/24655) | 2026-10-09 |
+| rtk-ai/rtk | [fix(tracking): count `rtk uv` rows as python in ecosystem mix](https://github.com/rtk-ai/rtk/pull/4328) | 2026-10-03 |
+| rtk-ai/rtk | [fix(discover): count sudo RTK_DISABLED=1 commands as bypass in analytics](https://github.com/rtk-ai/rtk/pull/3808) | 2026-10-03 |
+| tickernelz/opencode-mem | [fix(web): show tag-filtered count in the header total](https://github.com/tickernelz/opencode-mem/pull/320) | 2026-10-01 |
+| tickernelz/opencode-mem | [fix: do not mark failed tag migrations as processed](https://github.com/tickernelz/opencode-mem/pull/319) | 2026-10-01 |
+| brenoepics/vitepress-carbon | [fix(theme): import markdown-it as a type only](https://github.com/brenoepics/vitepress-carbon/pull/346) | 2026-09-29 |
+| dorny/test-reporter | [fix(phpunit-junit): surface error body when only type is set](https://github.com/dorny/test-reporter/pull/834) | 2026-09-28 |
 | shep-pm/shep | [docs(dog): restore missing clause in deliver_and_record docs](https://github.com/shep-pm/shep/pull/622) | 2026-09-27 |
 | shep-pm/shep | [docs(lookout): put misplaced view doc comments on the right items](https://github.com/shep-pm/shep/pull/621) | 2026-09-27 |
 | fadyehabamer/otp-input-kit | [fix(umd): also expose window.OTPInput for CDN examples](https://github.com/fadyehabamer/otp-input-kit/pull/13) | 2026-09-26 |

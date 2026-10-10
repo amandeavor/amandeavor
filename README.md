@@ -21,34 +21,36 @@ I like work where the details matter: a command that previews its changes, an er
 
 I help maintain [**opencode-mem**](https://github.com/tickernelz/opencode-mem) and [**awesome-free-apps**](https://github.com/Axorax/awesome-free-apps), and contribute fixes and tests to developer tools.
 
-**25 merged pull requests across 16 external repositories** (125 merged PRs across all repositories), verified on September 28, 2026. [Browse the contribution record →](./CONTRIBUTIONS.md)
+**33 merged pull requests across 18 external repositories** (133 merged PRs across all repositories), verified on October 10, 2026. [Browse the contribution record →](./CONTRIBUTIONS.md)
 
 | Project | Selected merged work |
 | --- | --- |
-| **opencode-mem** | [Reduce storage overhead for new vector indexes](https://github.com/tickernelz/opencode-mem/pull/279), [preserve provider parameters](https://github.com/tickernelz/opencode-mem/pull/289), and [show matched-memory counts](https://github.com/tickernelz/opencode-mem/pull/290). |
+| **opencode-mem** | [Reduce storage overhead for new vector indexes](https://github.com/tickernelz/opencode-mem/pull/279), [do not mark failed tag migrations as processed](https://github.com/tickernelz/opencode-mem/pull/319), and [show matched-memory counts](https://github.com/tickernelz/opencode-mem/pull/290). |
+| **compio** | [Skip empty UDP datagrams in QUIC endpoint](https://github.com/compio-rs/compio/pull/1070). |
+| **Uno Platform** | [Correct Compass ReportInterval support for iOS and WASM](https://github.com/unoplatform/uno/pull/24655). |
+| **RTK** | [Count rtk uv rows as Python](https://github.com/rtk-ai/rtk/pull/4328) and [count sudo RTK_DISABLED=1 commands as bypass](https://github.com/rtk-ai/rtk/pull/3808). |
 | **Wave** | [Handle non-UTF-8 program output in the native case runner](https://github.com/wavefnd/Wave/pull/743) and [reject null write buffers before opening files](https://github.com/wavefnd/Wave/pull/742). |
 | **Inversify** | [Validate OpenAPI base-URI declarations](https://github.com/inversify/monorepo/pull/2104) and [support discriminated errors in HTTP error filters](https://github.com/inversify/monorepo/pull/2108). |
-| **test-reporter** | [Handle test failures with attribute-only messages](https://github.com/dorny/test-reporter/pull/814). |
+| **test-reporter** | [Surface PHPUnit JUnit error details](https://github.com/dorny/test-reporter/pull/834) and [handle test failures with attribute-only messages](https://github.com/dorny/test-reporter/pull/814). |
 | **repodx** | [Detect secrets exposed through public env prefixes](https://github.com/omerbek/repodx/pull/29). |
 | **rolecraft** | [Use UserError for skill-not-found in remove and update APIs](https://github.com/rolecraft-sh/rolecraft/pull/298). |
-| **vitepress-carbon** | [Drop invalid `:deep()` from unscoped DocSearch styles](https://github.com/brenoepics/vitepress-carbon/pull/345). |
+| **vitepress-carbon** | [Import markdown-it as a type only](https://github.com/brenoepics/vitepress-carbon/pull/346) and [drop invalid `:deep()` from unscoped DocSearch styles](https://github.com/brenoepics/vitepress-carbon/pull/345). |
 | **svg2pdf.js** | [Align PDF link hitboxes with rendered SVG elements](https://github.com/yWorks/svg2pdf.js/pull/372). |
 | **shep** | [Clarify view and deliver documentation comments](https://github.com/shep-pm/shep/pull/621). |
 | **freeCodeCamp** | [Correct integers/floats lecture terminology](https://github.com/freeCodeCamp/freeCodeCamp/pull/70378). |
 | **jest-codemods** | [Preserve TypeScript `this` parameters during migration](https://github.com/skovhus/jest-codemods/pull/672). |
-| **RTK** | [Add regression coverage for anchored command-filter patterns](https://github.com/rtk-ai/rtk/pull/3807). |
 | **awesome-free-apps** | [Make link audits detect HTTP failures, limit concurrency, and return meaningful exit statuses](https://github.com/Axorax/awesome-free-apps/pull/296). |
 
 <details>
 <summary>Selected contributions under active review</summary>
 
-- [opencode-mem #319](https://github.com/tickernelz/opencode-mem/pull/319): Report batch tag migration failure counts and handle dialog progress states.
-- [vitepress-carbon #346](https://github.com/brenoepics/vitepress-carbon/pull/346): Resolve markdown-it type-only imports and sync package locks.
-- [svg2pdf.js #384](https://github.com/yWorks/svg2pdf.js/pull/384): Accept unquoted non-ASCII font-family values in SVG font matching.
-- [test-reporter #834](https://github.com/dorny/test-reporter/pull/834): Surface PHPUnit JUnit error details when only failure type is specified.
+- [reticle #1085](https://github.com/reticlehq/reticle/pull/1085): Document verify --expect-file and PowerShell usage.
+- [reticle #1089](https://github.com/reticlehq/reticle/pull/1089): Do not present unattributed listeners as this app.
+- [compio-rs #1071](https://github.com/compio-rs/compio/pull/1071): Invert may_fragment polarity and skip empty UDP datagrams in QUIC.
+- [LibreUML #131](https://github.com/LibreUML/LibreUML/pull/131): Write edge-anchoring screenshots under os.tmpdir().
 - [tensorflow-onnx #2487](https://github.com/onnx/tensorflow-onnx/pull/2487): Keras 3 model-output mapping and save/load regression coverage.
 
-These pull requests are actively under review as of September 28, 2026.
+These pull requests are actively under review as of October 10, 2026.
 
 </details>
 
