@@ -25,7 +25,7 @@
 
 <br />
 
-## 👋 About
+## About
 
 I'm **Aman Awasthi**, a software builder studying **Banking & Finance** in India.
 
@@ -33,15 +33,15 @@ Alongside my B.Com (Hons.) and CA Foundation preparation, I build **developer to
 
 <table>
   <tr>
-    <td><b>🎓 Studying</b><br />B.Com (Hons.) · CA Foundation</td>
-    <td><b>🔨 Building</b><br />AI-workflow CLIs, file tools, a Void Linux desktop</td>
-    <td><b>🤝 Contributing</b><br />Fixes, tests and docs across dev tooling</td>
+    <td><b>Studying</b><br />B.Com (Hons.) · CA Foundation</td>
+    <td><b>Building</b><br />AI-workflow CLIs, file tools, a Void Linux desktop</td>
+    <td><b>Contributing</b><br />Fixes, tests and docs across dev tooling</td>
   </tr>
 </table>
 
 <br />
 
-## 🧰 Toolbox
+## Toolbox
 
 <div align="center">
 
@@ -51,7 +51,7 @@ Alongside my B.Com (Hons.) and CA Foundation preparation, I build **developer to
 
 <br />
 
-## 🚀 Selected work
+## Selected work
 
 | Project | What it does | Stack |
 | --- | --- | --- |
@@ -65,7 +65,7 @@ Alongside my B.Com (Hons.) and CA Foundation preparation, I build **developer to
 
 <br />
 
-## 🌍 Open-source contributions
+## Open-source contributions
 
 I help maintain [**opencode-mem**](https://github.com/tickernelz/opencode-mem) and [**awesome-free-apps**](https://github.com/Axorax/awesome-free-apps), and contribute fixes, tests and docs to developer tools.
 
@@ -95,7 +95,7 @@ I help maintain [**opencode-mem**](https://github.com/tickernelz/opencode-mem) a
 | **repodx · rolecraft · shep · freeCodeCamp** | [Public env-prefix secrets](https://github.com/omerbek/repodx/pull/29) · [UserError for skill-not-found](https://github.com/rolecraft-sh/rolecraft/pull/298) · [doc comment fixes](https://github.com/shep-pm/shep/pull/621) · [lecture terminology](https://github.com/freeCodeCamp/freeCodeCamp/pull/70378) |
 
 <details>
-<summary><b>🔍 Currently under review</b></summary>
+<summary><b>Currently under review</b></summary>
 
 <br />
 
@@ -114,17 +114,17 @@ I help maintain [**opencode-mem**](https://github.com/tickernelz/opencode-mem) a
 
 <br />
 
-## 🧭 How I work
+## How I work
 
 | | |
 | --- | --- |
-| 🔎 **Understand the failure** | Reproduce it before changing the implementation. |
-| 🧾 **Make the fix reviewable** | Keep changes focused and add regression coverage where it helps. |
-| 🧵 **Leave a clear trail** | Document actual behavior, explain failures and make changes reversible. |
+| **Understand the failure** | Reproduce it before changing the implementation. |
+| **Make the fix reviewable** | Keep changes focused and add regression coverage where it helps. |
+| **Leave a clear trail** | Document actual behavior, explain failures and make changes reversible. |
 
 <br />
 
-## 📝 Notes from building
+## Notes from building
 
 - [Linux desktop latency: find the cause before tuning](https://amandeavor.pages.dev/blog/optimizing-desktop-latency/)
 - [Privacy-first React components: storage and safe defaults](https://amandeavor.pages.dev/blog/privacy-first-components/)
